@@ -23,6 +23,10 @@ You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vit
 - 2023 Peking University Hackathon Track2(WebGPU) Rank2
 - Kaggle Competition:HousePrice Prediction Top1%
 
+## Projects
+- Building the AI Enterprise Knowledge Graph Section in the Comprehensive Domain Knowledge Graph of AI
+- The compilation of the enterprise information resource management section in the basic textbook of information resource management
+
 
 
 
