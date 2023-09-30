@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a second year undergraduate student from Information Management Department, [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, natural language processing, data mining, large language model and searching engine.
 
-I am very fortunate to be advised by Prof. Bolin Hua of Datamining Lab from Department of Imformation Management, Peking University. 
+I am very fortunate to be advised by [Prof. Bolin Hua](https://www.im.pku.edu.cn/szll/syry/zzjspx/231416.htm) of Datamining Lab from [Department of Imformation Management](https://www.im.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). 
 
 You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
