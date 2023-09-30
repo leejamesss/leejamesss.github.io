@@ -18,7 +18,7 @@ You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vit
 - 2023 Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals Rank1
 - 2023 Peking University Hackathon Track2(WebGPU) Rank2
 - Kaggle Competition:HousePrice Prediction Top1%
-- 2022-2023 Peking University May Fourth Scholarship (Peking University's highest honorary scholarship)
+- May 4th Scholarship, 2022-2023 (the highest honor for students in PKU)
 
 
 
