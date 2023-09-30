@@ -14,5 +14,14 @@ I am very fortunate to be advised by Prof. Bolin Hua of Datamining Lab from Depa
 
 You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
+## Selected Awards
+- 2023 Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals Rank1
+- 2023 Peking University Hackathon Track2(WebGPU) Rank2
+- Kaggle Competition:HousePrice Prediction Top1%
+- 2022-2023 Peking University May Fourth Scholarship (Peking University's highest honorary scholarship)
+
+
+
+
 [Email](mailto:2200016651@stu.pku.edu.cn) / [Github](https://github.com/leejamesss) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_72410588?spm=1000.2115.3001.5343)
 
