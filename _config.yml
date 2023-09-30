@@ -11,9 +11,9 @@ title                    : "Jiatao Li / Personal Website"
 title_separator          : "-"
 name                     : &name "Jiatao Li"
 description              : &description "I am a Peking University student with a passion for Knowledge Graph,Computer Graph,Searching Engine,NLP,Machine Learning,Text Mining and Big Data."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://leejamesss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "leejamesss/leejamesss.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
