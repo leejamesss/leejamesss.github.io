@@ -15,11 +15,13 @@ I am very fortunate to be advised by Prof. Bolin Hua of Datamining Lab from Depa
 You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 ## Selected Awards
+- May 4th Scholarship, 2022-2023 (the highest honor for students in PKU)
+- Merit Student Pacesetter, 2022-2023
+
+## Competitions
 - 2023 Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals Rank1
 - 2023 Peking University Hackathon Track2(WebGPU) Rank2
 - Kaggle Competition:HousePrice Prediction Top1%
-- May 4th Scholarship, 2022-2023 (the highest honor for students in PKU)
-- Merit Student Pacesetter, 2022-2023
 
 
 
