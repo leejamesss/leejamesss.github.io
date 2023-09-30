@@ -19,6 +19,7 @@ You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vit
 - 2023 Peking University Hackathon Track2(WebGPU) Rank2
 - Kaggle Competition:HousePrice Prediction Top1%
 - May 4th Scholarship, 2022-2023 (the highest honor for students in PKU)
+- Merit Student Pacesetter, 2022-2023
 
 
 
