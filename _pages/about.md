@@ -10,13 +10,15 @@ redirect_from:
 
 I'm a second year undergraduate student from Information Management Department, [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, natural language processing, data mining, large language model and searching engine.
 
-I am very fortunate to be advised by [Prof. Bolin Hua](https://www.im.pku.edu.cn/szll/syry/zzjspx/231416.htm) of Datamining Lab from [Department of Imformation Management](https://www.im.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) since October 2022. 
+I am very fortunate to be advised by Prof. Bolin Hua of Datamining Lab from Department of Imformation Management, Peking University since October 2022. 
 
 You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 ## Selected Awards
+- 2023 Peking University Annual Person of the Year Nomination (the Youngest Nominee in the history of this award)
 - May 4th Scholarship, 2022-2023 (the highest honor for students in PKU)
 - Merit Student Pacesetter, 2022-2023
+
 
 ## Competitions
 - 2023 Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals Rank1
