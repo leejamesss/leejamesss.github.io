@@ -21,10 +21,11 @@ You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vit
 
 
 ## Competitions
+- Kaggle Competition:HousePrice Prediction Top1%
 - 2023 Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals Rank1
 - 2023 Peking University Hackathon Track2(WebGPU) Rank2
-- Kaggle Competition:HousePrice Prediction Top1%
-
+- 2023 Greater Bay Area (Huangpu) International Algorithm Case Competition - Advanced Enhancement of Large Language Model Comprehensive Abilities (Pazhou Laboratory & Fudan University), Finalist.
+  
 ## Projects
 - Building the AI Enterprise Knowledge Graph Section in the Comprehensive Domain Knowledge Graph of AI
 - The compilation of the enterprise information resource management section in the basic textbook of information resource management
