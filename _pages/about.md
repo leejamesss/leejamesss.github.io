@@ -15,7 +15,7 @@ I am very fortunate to be advised by Prof. Bolin Hua of Datamining Lab from Depa
 You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 ## Selected Awards
-- 2023 Peking University Annual Person of the Year Nomination (the Youngest Nominee in the history of this award) ([blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
+- 2023 Peking University Annual Person of the Year Nomination (Youngest Nominee) ([blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
 - Peking University May 4th Scholarship, 2022-2023 (the highest honor for students in PKU)
 - Peking University Merit Student Pacesetter, 2022-2023
 - CSDN Blog Star 2023 June City Track (Beijing) Top10.
