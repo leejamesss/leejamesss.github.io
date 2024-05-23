@@ -20,7 +20,24 @@
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
-<div id="clustrmaps-widget">
+<div id="clustrmaps-widget" class="clustrmaps-container">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MtsfYgtIlqtL9wcmZXok1hKh3RwcTQtk7gMG3_8hsCI&cl=ffffff&w=a"></script>
 </div>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+<style>
+.clustrmaps-container {
+  width: 300px; /* Set the desired width */
+  height: 200px; /* Set the desired height */
+  overflow: hidden; /* Hide any overflow */
+  position: relative;
+}
+
+.clustrmaps-container iframe {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+</style>
