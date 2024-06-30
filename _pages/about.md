@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiatao Li（李嘉涛）"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
