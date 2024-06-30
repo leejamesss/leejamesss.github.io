@@ -39,7 +39,7 @@ You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vit
 
 
 <a href='https://clustrmaps.com/site/1bzs6'  title='Visit tracker'>
-  <img src='//clustrmaps.com/map_v2.png?d=MtsfYgtIlqtL9wcmZXok1hKh3RwcTQtk7gMG3_8hsCI&cl=ffffff&w=a'/>
+  <img src='//clustrmaps.com/map_v2.png?d=MtsfYgtIlqtL9wcmZXok1hKh3RwcTQtk7gMG3_8hsCI&cl=ffffff&w=600'/>
 </a>
 
 
