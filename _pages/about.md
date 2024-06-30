@@ -37,7 +37,10 @@ You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vit
 - Building the AI Enterprise Knowledge Graph Section in the Comprehensive Domain Knowledge Graph of AI
 - The compilation of the enterprise information resource management section in the basic textbook of information resource management
 
-<a href='https://clustrmaps.com/site/1bzs6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.js?d=MtsfYgtIlqtL9wcmZXok1hKh3RwcTQtk7gMG3_8hsCI&cl=ffffff&w=a'/></a>
+
+<a href='https://clustrmaps.com/site/1bzs6'  title='Visit tracker'>
+  <img src='//clustrmaps.com/map_v2.png?d=MtsfYgtIlqtL9wcmZXok1hKh3RwcTQtk7gMG3_8hsCI&cl=ffffff&w=a'/>
+</a>
 
 
 
