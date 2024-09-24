@@ -19,6 +19,12 @@ Through these pursuits, I strive to contribute to the forefront of NLP and ML re
 
 You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
+## Preprints
+- SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval
+**Jiatao Li**, Xinyu Hu, Xiaojun Wan  
+*arXiv*:2409.13992 [[pdf](https://arxiv.org/pdf/2409.13992)]
+
+
 ## Selected Awards
 - 2023 Peking University Annual Person of the Year Nomination (**Youngest Nominee**, **45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
 - Peking University May 4th Scholarship, 2022-2023 (**Highest-level Scholarship** in Peking University, **125**/65k+)
