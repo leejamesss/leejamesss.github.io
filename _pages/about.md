@@ -19,7 +19,9 @@ Through these pursuits, I strive to contribute to the forefront of NLP and ML re
 
 You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-## Preprints
+Preprints
+======
+
 - SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval
 **Jiatao Li**, Xinyu Hu, Xiaojun Wan  
 *arXiv*:2409.13992 [[pdf](https://arxiv.org/pdf/2409.13992)]
