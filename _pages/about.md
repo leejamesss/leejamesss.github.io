@@ -22,7 +22,7 @@ You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vit
 Preprints
 ======
 
-- SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval
+- SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval <br>
 **Jiatao Li**, Xinyu Hu, Xiaojun Wan  
 *arXiv*:2409.13992 [[pdf](https://arxiv.org/pdf/2409.13992)]
 
