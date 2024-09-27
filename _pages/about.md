@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from Information Management Department, [Peking University](https://www.pku.edu.cn/). I am fortunate to work as a research assistant at [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) under the supervision of Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My research interest lies broadly in NLP and ML. Recently I am drawn by the development of large language models. A list of topics i am actively thinking about/working on: 
+I'm a junior student from Information Management Department, [Peking University](https://www.pku.edu.cn/). I am fortunate to work as a research assistant at [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) under the supervision of Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My research interest lies broadly in NLP and ML. Recently I am drawn by the development of large language models. A list of topics i am actively thinking about/working on: 
 - **Enhancing Knowledge Retrieval in LLMs**: I am deeply engaged in exploring methodologies that can dynamically enhance large language models' ability to retrieve information, akin to human cognition. I believe retrieval is crucial for enabling LLMs to continually learn and adapt to the ever-changing world knowledge.
 
 - **Decoding the Knowledge Architecture of LLMs**: Intrigued by the inner mechanisms of knowledge storage within LLMs, I aspire to unravel the unique patterns they employ. This investigation not only promises to inform knowledge discovery processes but also offers intriguing parallels to understanding the mysteries of knowledge storage in the human brain.
