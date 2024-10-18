@@ -26,6 +26,10 @@ Preprints
 **Jiatao Li**, Xinyu Hu, Xiaojun Wan  
 *arXiv*:2409.13992 [[pdf](https://arxiv.org/pdf/2409.13992)]
 
+- Evaluating Self-Generated Documents for Enhancing Retrieval-Augmented Generation with Large Language Models <br>
+**Jiatao Li**, Xinyu Hu, Xunjian Yin, Xiaojun Wan  
+*arXiv*:2410.13192 [[pdf](https://arxiv.org/pdf/2410.13192)]
+
 
 ## Selected Awards
 - 2023 Peking University Annual Person of the Year Nomination (**Youngest Nominee**, **45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
