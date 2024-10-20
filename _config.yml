@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiatao Li's Personal Website"
+title                    : "Jiatao Li"
 title_separator          : "-"
 name                     : &name "Jiatao Li"
 description              : &description "I am a Peking University student with a passion for Knowledge Graph,Computer Graph,Searching Engine,NLP,Machine Learning,Text Mining and Big Data."
