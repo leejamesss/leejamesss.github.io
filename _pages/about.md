@@ -30,22 +30,17 @@ Preprints
 
 
 ## Selected Awards
-- 2023 Peking University Annual Person of the Year Nomination (**Youngest Nominee**, **45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
-- Peking University May 4th Scholarship, 2022-2023 (**Highest-level Scholarship** in Peking University, **125**/65k+)
-- Peking University Merit Student Pacesetter, 2022-2023 (**Top1%**)
-- CSDN Blog Star 2023 June City Track (Beijing) **Top10**.
-
-
-
-## Competitions
-- Kaggle Competition:HousePrice Prediction **Top1%**
-- 2023 Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals **Rank1**
-- 2023 Peking University Hackathon Track2(WebGPU) **Rank2**
-- 2023 Greater Bay Area (Huangpu) International Algorithm Case Competition - Advanced Enhancement of Large Language Model Comprehensive Abilities (Pazhou Laboratory & Fudan University), **Finalist**.
+- 2023-2024: Peking University Merit Student Pacesetter 
+- 2024: Liao Kaiyuan Scholarship
+- 2024: CSDN Blog Star of the Year **Top87**
+- 2023: Peking University Annual Person of the Year Nomination (**Youngest Nominee**, **45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
+- 2023: Peking University May 4th Scholarship (**Highest-level Scholarship** in Peking University, **125**/65k+)
+- 2023: CSDN Blog Star (Beijing) **Top10**
+- 2023: Kaggle Competition:HousePrice Prediction **Top1%**
+- 2023: Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals **Rank1**
+- 2023: Peking University Hackathon Track2(WebGPU) **Rank2**
+- 2023: Greater Bay Area (Huangpu) International Algorithm Case Competition - Advanced Enhancement of Large Language Model Comprehensive Abilities (Pazhou Laboratory & Fudan University), **Finalist**.
   
-## Projects
-- Building the AI Enterprise Knowledge Graph Section in the Comprehensive Domain Knowledge Graph of AI
-- The compilation of the enterprise information resource management section in the basic textbook of information resource management
 
 
 <a href='https://clustrmaps.com/site/1bzs6'  title='Visit tracker'>
