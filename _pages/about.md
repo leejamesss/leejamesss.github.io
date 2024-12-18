@@ -31,7 +31,7 @@ Preprints
 
 ## Selected Awards
 - 2023-2024: Peking University Merit Student Pacesetter 
-- 2024: Liao Kaiyuan Scholarship
+- 2024: Leo KoGuan Scholarship
 - 2024: CSDN Blog Star of the Year **Top87**
 - 2023: Peking University Annual Person of the Year Nomination (**Youngest Nominee**, **45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
 - 2023: Peking University May 4th Scholarship (**Highest-level Scholarship** in Peking University, **125**/65k+)
