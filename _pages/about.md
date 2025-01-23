@@ -24,9 +24,13 @@ Preprints
 **Jiatao Li**, Xinyu Hu, Xiaojun Wan  
 *arXiv*:2409.13992 [[pdf](https://arxiv.org/pdf/2409.13992)]
 
+
+Selected Publications
+======
+
 - Evaluating Self-Generated Documents for Enhancing Retrieval-Augmented Generation with Large Language Models <br>
 **Jiatao Li**, Xinyu Hu, Xunjian Yin, Xiaojun Wan  
-*arXiv*:2410.13192 [[pdf](https://arxiv.org/pdf/2410.13192)]
+*NAACL 2025*  [[pdf](https://arxiv.org/pdf/2410.13192)]
 
 
 ## Selected Awards
