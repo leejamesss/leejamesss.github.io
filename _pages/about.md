@@ -29,7 +29,7 @@ Preprints
 *arXiv*:2502.12510 [[pdf](https://arxiv.org/pdf/2502.12510)]
 
 - Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
-**Jiatao Li**, Xinyu Hu, Xiaojun Wan  
+**Jiatao Li**, Xiaojun Wan  
 *arXiv*:2502.12611 [[pdf](https://arxiv.org/pdf/2502.12611)]
 
 
