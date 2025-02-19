@@ -24,6 +24,15 @@ Preprints
 **Jiatao Li**, Xinyu Hu, Xiaojun Wan  
 *arXiv*:2409.13992 [[pdf](https://arxiv.org/pdf/2409.13992)]
 
+- Aspect-Guided Multi-Level Perturbation Analysis of Large Language Models in Automated Peer Review <br>
+**Jiatao Li**, Yanheng Li, Xinyu Hu, Mingqi Gao, Xiaojun Wan  
+*arXiv*:2502.12510 [[pdf](https://arxiv.org/pdf/2502.12510)]
+
+- Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
+**Jiatao Li**, Xinyu Hu, Xiaojun Wan  
+*arXiv*:2502.12611 [[pdf](https://arxiv.org/pdf/2502.12611)]
+
+
 
 Selected Publications
 ======
