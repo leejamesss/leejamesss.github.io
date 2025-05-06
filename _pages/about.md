@@ -42,7 +42,7 @@ Selected Publications
 
 - Evaluating Self-Generated Documents for Enhancing Retrieval-Augmented Generation with Large Language Models <br>
 **Jiatao Li**, Xinyu Hu, Xunjian Yin, Xiaojun Wan  
-*NAACL 2025 (Findings). (Long Paper)*  [[pdf](https://arxiv.org/pdf/2410.13192)]
+*NAACL 2025 (Findings). (Long Paper)*  [[pdf](https://aclanthology.org/2025.findings-naacl.149.pdf)]
 
 
 ## Selected Awards
