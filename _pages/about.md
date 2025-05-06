@@ -32,6 +32,9 @@ Preprints
 **Jiatao Li**, Xiaojun Wan  
 *arXiv*:2502.12611 [[pdf](https://arxiv.org/pdf/2502.12611)]
 
+- Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview <br>
+**Jiatao Li**, Yanheng Li, Xiaojun Wan  
+*arXiv*:2505.01967 [[pdf](https://arxiv.org/pdf/2505.01967)]
 
 
 Selected Publications
