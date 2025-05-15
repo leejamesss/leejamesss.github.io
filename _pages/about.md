@@ -28,10 +28,6 @@ Preprints
 **Jiatao Li**, Yanheng Li, Xinyu Hu, Mingqi Gao, Xiaojun Wan  
 *arXiv*:2502.12510 [[pdf](https://arxiv.org/pdf/2502.12510)]
 
-- Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
-**Jiatao Li**, Xiaojun Wan  
-*arXiv*:2502.12611 [[pdf](https://arxiv.org/pdf/2502.12611)]
-
 - Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview <br>
 **Jiatao Li**, Yanheng Li, Xiaojun Wan  
 *arXiv*:2505.01967 [[pdf](https://arxiv.org/pdf/2505.01967)]
@@ -43,6 +39,10 @@ Selected Publications
 - Evaluating Self-Generated Documents for Enhancing Retrieval-Augmented Generation with Large Language Models <br>
 **Jiatao Li**, Xinyu Hu, Xunjian Yin, Xiaojun Wan  
 *NAACL 2025 (Findings). (Long Paper)*  [[pdf](https://aclanthology.org/2025.findings-naacl.149.pdf)]
+
+- Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
+**Jiatao Li**, Xiaojun Wan  
+*ACL 2025 (Main). (Long Paper)* [[pdf](https://arxiv.org/pdf/2502.12611)]
 
 
 ## Selected Awards
