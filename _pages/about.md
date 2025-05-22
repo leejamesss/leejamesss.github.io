@@ -32,6 +32,10 @@ Preprints
 **Jiatao Li**, Yanheng Li, Xiaojun Wan  
 *arXiv*:2505.01967 [[pdf](https://arxiv.org/pdf/2505.01967)]
 
+- AGENT-X: Adaptive Guideline-based Expert Network for Threshold-free AI-generated teXt detection <br>
+**Jiatao Li**, Mao Ye, Cheng Peng, Xunjian Yin, Xiaojun Wan  
+*arXiv*:2505.15261 [[pdf](https://arxiv.org/pdf/2505.15261)]
+
 
 Selected Publications
 ======
