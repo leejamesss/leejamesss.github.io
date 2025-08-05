@@ -24,10 +24,6 @@ Preprints
 **Jiatao Li**, Xinyu Hu, Xiaojun Wan  
 *arXiv*:2409.13992 [[pdf](https://arxiv.org/pdf/2409.13992)]
 
-- Aspect-Guided Multi-Level Perturbation Analysis of Large Language Models in Automated Peer Review <br>
-**Jiatao Li**, Yanheng Li, Xinyu Hu, Mingqi Gao, Xiaojun Wan  
-*arXiv*:2502.12510 [[pdf](https://arxiv.org/pdf/2502.12510)]
-
 - Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview <br>
 **Jiatao Li**, Yanheng Li, Xiaojun Wan  
 *arXiv*:2505.01967 [[pdf](https://arxiv.org/pdf/2505.01967)]
@@ -46,7 +42,11 @@ Selected Publications
 
 - Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
 **Jiatao Li**, Xiaojun Wan  
-*ACL 2025. (Long Paper)* [[pdf](https://arxiv.org/pdf/2502.12611)]
+*ACL 2025. (Long Paper)* [[pdf]([https://arxiv.org/pdf/2502.12611](https://aclanthology.org/2025.acl-long.1292.pdf))]
+
+- Aspect-Guided Multi-Level Perturbation Analysis of Large Language Models in Automated Peer Review <br>
+**Jiatao Li**, Yanheng Li, Xinyu Hu, Mingqi Gao, Xiaojun Wan  
+*CIKM 2025. (Long Paper)* [[pdf](https://arxiv.org/pdf/2502.12510)]
 
 
 ## Selected Awards
