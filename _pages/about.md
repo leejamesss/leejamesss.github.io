@@ -42,7 +42,7 @@ Selected Publications
 
 - Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
 **Jiatao Li**, Xiaojun Wan  
-*ACL 2025. (Long Paper)* [[pdf](https://aclanthology.org/2025.acl-long.1292.pdf))]
+*ACL 2025. (Long Paper)* [[pdf](https://aclanthology.org/2025.acl-long.1292.pdf)]
 
 - Aspect-Guided Multi-Level Perturbation Analysis of Large Language Models in Automated Peer Review <br>
 **Jiatao Li**, Yanheng Li, Xinyu Hu, Mingqi Gao, Xiaojun Wan  
