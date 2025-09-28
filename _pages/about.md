@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior student from Information Management Department, [Peking University](https://www.pku.edu.cn/). I am fortunate to work as a research assistant at [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) under the supervision of Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). In summer 2025, I will work as an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)) at Stanford University, supervised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/). My research interest lies broadly in NLP and ML. Recently I am drawn by the development of large language models. A list of topics i am actively thinking about/working on: 
+I'm a senior undergraduate student from Information Management Department, [Peking University](https://www.pku.edu.cn/). I am fortunate to work as a research assistant at [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) under the supervision of Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). I worked as an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)) at Stanford University, supervised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/). My research interest lies broadly in NLP and ML. Recently I am drawn by the development of large language models. A list of topics i am actively thinking about/working on: 
 - **Enhancing Knowledge Retrieval in LLMs**: I am deeply engaged in exploring methodologies that can dynamically enhance large language models' ability to retrieve information, akin to human cognition. I believe retrieval is crucial for enabling LLMs to continually learn and adapt to the ever-changing world knowledge.
 
 - **Human-LLM Interaction Dynamics**: Another facet of my research curiosity lies in examining the interfaces between large language models and their human users. I am particularly captivated by the concept of a highly tailored AI assistant capable of evolving in tandem with a user's individual experiences and memories, thereby redefining personalized interaction.
@@ -50,8 +50,10 @@ Selected Publications
 
 
 ## Selected Awards
-- 2023-2024: Peking University Merit Student Pacesetter 
+- 2025: National Scholarship (China's highest-level undergraduate scholarship)
+- 2025: Peking University Merit Student
 - 2024: Leo KoGuan Scholarship
+- 2023-2024: Peking University Merit Student Pacesetter 
 - 2024: CSDN Blog Star of the Year **Top87**
 - 2023: Peking University Annual Person of the Year Nomination (**Youngest Nominee**, **45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
 - 2023: Peking University May 4th Scholarship (**Highest-level Scholarship** in Peking University, **125**/65k+)
