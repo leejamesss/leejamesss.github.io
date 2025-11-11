@@ -46,7 +46,7 @@ Selected Publications
 
 - Aspect-Guided Multi-Level Perturbation Analysis of Large Language Models in Automated Peer Review <br>
 **Jiatao Li**, Yanheng Li, Xinyu Hu, Mingqi Gao, Xiaojun Wan  
-*CIKM 2025. (Long Paper)* [[pdf](https://arxiv.org/pdf/2502.12510)]
+*CIKM 2025. (Long Paper)* [[pdf](https://dl.acm.org/doi/pdf/10.1145/3746252.3761274)]
 
 
 ## Selected Awards
