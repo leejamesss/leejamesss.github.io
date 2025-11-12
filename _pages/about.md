@@ -50,6 +50,7 @@ Selected Publications
 
 
 ## Selected Awards
+- 2025: Peking University Annual Person of the Year Nomination (**45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/tLsp9T4GFcGwOLd86Q2Wbg))
 - 2025: National Scholarship (China's highest-level undergraduate scholarship)
 - 2025: Peking University Merit Student
 - 2024: Leo KoGuan Scholarship
