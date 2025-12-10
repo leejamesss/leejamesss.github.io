@@ -16,9 +16,6 @@ I believe adaptivity is essential for AI systems operating in real-world setting
 - **User Adaptivity**: Developing interaction mechanisms that allow agents to adapt to users' evolving goals and preferences over long time horizons.
 - **Social Adaptivity**: Investigating how social factors shape model decisions to build systems that are socially aware, fair, and unbiased across different demographics.
 
-
-You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 Preprints
 ======
 
