@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student from Information Management Department, [Peking University](https://www.pku.edu.cn/). I am fortunate to work as a research assistant at [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) under the guidance of Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). In summer 2025, I joined the Stanford SALT Lab as an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)) at Stanford University, advised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/). My research interest lies broadly in NLP and ML. Recently I am drawn by the development of large language models. A list of topics i am actively thinking about/working on: 
-- **Enhancing Knowledge Retrieval in LLMs**: I am deeply engaged in exploring methodologies that can dynamically enhance large language models' ability to retrieve information, akin to human cognition. I believe retrieval is crucial for enabling LLMs to continually learn and adapt to the ever-changing world knowledge.
+I am a senior undergraduate student in the Department of Information Management, [Peking University](https://www.pku.edu.cn/). I am fortunate to work as a research assistant at [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) under the guidance of Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). In Summer 2025, I joined the Stanford SALT Lab as an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)), advised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/). 
 
-- **Human-LLM Interaction Dynamics**: Another facet of my research curiosity lies in examining the interfaces between large language models and their human users. I am particularly captivated by the concept of a highly tailored AI assistant capable of evolving in tandem with a user's individual experiences and memories, thereby redefining personalized interaction.
+I believe adaptivity is essential for AI systems operating in real-world settings. My research explores how such systems can adapt (1) to the tasks they solve, (2) the users they interact with, and (3) the social contexts they operate in.
 
-Through these pursuits, I strive to contribute to the forefront of NLP and ML research, pushing the boundaries of what's possible in artificial intelligence while drawing insights that bridge the gap between machine and human cognition. My long-term research goal is to build a self-evolving LLM capable of continuous learning and adaptation, ultimately achieving a higher degree of artificial general intelligence.
+- **Task Adaptivity**: I work on improving how LLMs retrieve and organize information so they can better adapt to different tasks. I study methods for selecting, structuring, and generating contextual knowledge that enables models to operate reliably in dynamic environments.
+
+- **User Adaptivity**: I investigate how AI systems can adapt to users over long time horizons as their goals, preferences, and contexts evolve. I am particularly interested in interaction mechanisms that help agents collaborate more effectively with people in complex or changing workflows.
+
+- **Social Adaptivity**: I examine how AI systems behave across different social contexts and user groups, how social factors shape model decisions, where disparities and biases emerge, and how we can build systems that are more socially aware, fair, and context-sensitive in real-world interactions.
 
 You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
