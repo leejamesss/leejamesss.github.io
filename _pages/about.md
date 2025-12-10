@@ -12,11 +12,10 @@ I am a senior undergraduate student in the Department of Information Management,
 
 I believe adaptivity is essential for AI systems operating in real-world settings. My research explores how such systems can adapt (1) to the tasks they solve, (2) the users they interact with, and (3) the social contexts they operate in.
 
-- **Task Adaptivity**: I work on improving how LLMs retrieve and organize information so they can better adapt to different tasks. I study methods for selecting, structuring, and generating contextual knowledge that enables models to operate reliably in dynamic environments.
+- **Task Adaptivity**: Enhancing how LLMs retrieve, select, and structure contextual knowledge to solve diverse tasks reliably.
+- **User Adaptivity**: Developing interaction mechanisms that allow agents to adapt to users' evolving goals and preferences over long time horizons.
+- **Social Adaptivity**: Investigating how social factors shape model decisions to build systems that are socially aware, fair, and unbiased across different demographics.
 
-- **User Adaptivity**: I investigate how AI systems can adapt to users over long time horizons as their goals, preferences, and contexts evolve. I am particularly interested in interaction mechanisms that help agents collaborate more effectively with people in complex or changing workflows.
-
-- **Social Adaptivity**: I examine how AI systems behave across different social contexts and user groups, how social factors shape model decisions, where disparities and biases emerge, and how we can build systems that are more socially aware, fair, and context-sensitive in real-world interactions.
 
 You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
