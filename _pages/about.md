@@ -74,7 +74,3 @@ Preprints
   <img src='//clustrmaps.com/map_v2.png?d=MtsfYgtIlqtL9wcmZXok1hKh3RwcTQtk7gMG3_8hsCI&cl=ffffff&w=600'/>
 </a>
 
-
-
-<!-- [Email](mailto:2200016651@stu.pku.edu.cn) / [Github](https://github.com/leejamesss) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_72410588?spm=1000.2115.3001.5343) -->
-
