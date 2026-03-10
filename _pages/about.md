@@ -10,11 +10,10 @@ redirect_from:
 
 I am a senior undergraduate at Peking University working with Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). I was an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)) at Stanford University, advised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/). 
 
-I believe adaptivity is essential for AI systems operating in real-world settings. My research explores how such systems can adapt (1) to the tasks they solve, (2) the users they interact with, and (3) the social contexts they operate in.
-
-- **Task Adaptivity**: Enhancing how LLMs retrieve, select, and structure contextual knowledge to solve diverse tasks reliably.
-- **User Adaptivity**: Developing interaction mechanisms that allow agents to adapt to users' evolving goals and preferences over long time horizons.
-- **Social Adaptivity**: Investigating how social factors shape model decisions to build systems that are socially aware, fair, and unbiased across different demographics.
+My research explores how AI systems adapt to (1) tasks, (2) users, and (3) social contexts.
+- Task Adaptivity: Improving how LLMs retrieve, select, and structure contextual knowledge for diverse tasks.
+- User Adaptivity: Developing interaction mechanisms that allow agents to adapt to evolving user goals and preferences.
+- Social Adaptivity: Studying how social factors influence model decisions to build socially aware and fair AI systems.
 
 
 ## Selected Publications
