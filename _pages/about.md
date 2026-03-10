@@ -16,7 +16,7 @@ My research explores how AI systems adapt to (1) tasks, (2) users, and (3) socia
 - Social Adaptivity: Studying how social factors influence model decisions to build socially aware and fair AI systems.
 
 
-## Selected Publications
+## Publications
 - Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
 **Jiatao Li**, Xiaojun Wan  
 *ACL 2025. (Long Paper)* [[pdf](https://aclanthology.org/2025.acl-long.1292.pdf)]
@@ -48,7 +48,7 @@ My research explores how AI systems adapt to (1) tasks, (2) users, and (3) socia
 
 
 
-## Selected Awards
+## Awards
 - 2025: Peking University Annual Person of the Year Nomination (**45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/tLsp9T4GFcGwOLd86Q2Wbg))
 - 2025: National Scholarship (China's highest-level undergraduate scholarship)
 - 2025: Peking University Merit Student
