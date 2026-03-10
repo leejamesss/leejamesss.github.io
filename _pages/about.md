@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student in the Department of Information Management, [Peking University](https://www.pku.edu.cn/). I am fortunate to work as a research assistant at [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) under the guidance of Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). In Summer 2025, I joined the Stanford SALT Lab as an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)), advised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/). 
+I am a senior undergraduate at Peking University working with Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). I was an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)) at Stanford University, advised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/). 
 
 I believe adaptivity is essential for AI systems operating in real-world settings. My research explores how such systems can adapt (1) to the tasks they solve, (2) the users they interact with, and (3) the social contexts they operate in.
 
