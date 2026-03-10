@@ -17,9 +17,7 @@ I believe adaptivity is essential for AI systems operating in real-world setting
 - **Social Adaptivity**: Investigating how social factors shape model decisions to build systems that are socially aware, fair, and unbiased across different demographics.
 
 
-Selected Publications
-======
-
+## Selected Publications
 - Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
 **Jiatao Li**, Xiaojun Wan  
 *ACL 2025. (Long Paper)* [[pdf](https://aclanthology.org/2025.acl-long.1292.pdf)]
@@ -35,9 +33,7 @@ Selected Publications
 
 
 
-Preprints
-======
-
+## Preprints
 - SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval <br>
 **Jiatao Li**, Xinyu Hu, Xiaojun Wan  
 *arXiv*:2409.13992 [[pdf](https://arxiv.org/pdf/2409.13992)]
