@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jiatao Li"
   avatar           : "profile_photo.jpg"
-  bio              : "Undergrad student at Peking University working on NLP"
-  location         : "Beijing China"
+  bio              : "NLPer @ PKU"
+  location         : 
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rhqBwx8AAAAJ&hl=en"
