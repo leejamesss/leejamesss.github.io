@@ -49,23 +49,19 @@ My research explores how AI systems adapt to (1) tasks, (2) users, and (3) socia
 
 
 ## Awards
-- 2025: Peking University Annual Person of the Year Nomination (**45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/tLsp9T4GFcGwOLd86Q2Wbg))
+- 2025: Peking University Person of the Year Nomination (45/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/tLsp9T4GFcGwOLd86Q2Wbg))
 - 2025: National Scholarship (China's highest-level undergraduate scholarship)
 - 2025: Peking University Merit Student
-- 2024: Leo KoGuan Scholarship
-- 2023-2024: Peking University Merit Student Pacesetter 
-- 2024: CSDN Blog Star of the Year **Top87**
-- 2023: Peking University Annual Person of the Year Nomination (**Youngest Nominee**, **45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
-- 2023: Peking University May 4th Scholarship (**Highest-level Scholarship** in Peking University, **125**/65k+)
-- 2023: CSDN Blog Star (Beijing) **Top10**
-- 2023: Kaggle Competition:HousePrice Prediction **Top1%**
-- 2023: Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals **Rank1**
-- 2023: Peking University Hackathon Track2(WebGPU) **Rank2**
-- 2023: Greater Bay Area International Algorithm Competition (Pazhou Lab & Fudan), Finalist
-  
+- 2024: Leo KoGuan Scholarship (1%)
+- 2023-2024: Peking University Merit Student Pacesetter (1%, Rank 1)
+- 2024: CSDN Blog Star of the Year (Top 87)
+- 2023: Peking University Person of the Year Nomination (Youngest Nominee, 45/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
+- 2023: Peking University May 4th Scholarship (1%, Rank 1)
+- 2023: CSDN Blog Star (Beijing Top10)
+- 2023: Kaggle House Price Prediction Competition (1%)
+- 2023: Tianchi BMW Hackathon (Rank 1)
+- 2023: Peking University Hackathon WebGPU Track (Rank 2)
+- 2023: Greater Bay Area International Algorithm Competition, Finalist
 
 
-<a href='https://clustrmaps.com/site/1bzs6'  title='Visit tracker'>
-  <img src='//clustrmaps.com/map_v2.png?d=MtsfYgtIlqtL9wcmZXok1hKh3RwcTQtk7gMG3_8hsCI&cl=ffffff&w=600'/>
-</a>
 
