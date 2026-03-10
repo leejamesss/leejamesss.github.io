@@ -50,8 +50,8 @@ My research explores how AI systems adapt to (1) tasks, (2) users, and (3) socia
 
 ## Awards
 - 2025: Peking University Person of the Year Nomination (45/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/tLsp9T4GFcGwOLd86Q2Wbg))
-- 2025: National Scholarship (China's highest-level undergraduate scholarship)
-- 2025: Peking University Merit Student
+- 2025: National Scholarship (1%, Rank1)
+- 2025: Peking University Merit Student (Rank1)
 - 2024: Leo KoGuan Scholarship (1%)
 - 2023-2024: Peking University Merit Student Pacesetter (1%, Rank 1)
 - 2024: CSDN Blog Star of the Year (Top 87)
