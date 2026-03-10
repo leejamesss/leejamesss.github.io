@@ -61,7 +61,7 @@ My research explores how AI systems adapt to (1) tasks, (2) users, and (3) socia
 - 2023: Kaggle Competition:HousePrice Prediction **Top1%**
 - 2023: Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals **Rank1**
 - 2023: Peking University Hackathon Track2(WebGPU) **Rank2**
-- 2023 — Greater Bay Area International Algorithm Competition (Pazhou Lab & Fudan), Finalist
+- 2023: Greater Bay Area International Algorithm Competition (Pazhou Lab & Fudan), Finalist
   
 
 
