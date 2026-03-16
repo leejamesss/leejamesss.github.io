@@ -237,4 +237,14 @@
       text-decoration: underline;
     }
   }
+   
+  .social-icons a {
+    font-size: $type-size-4;
+  }
+
+  .social-icons i,
+  .social-icons .ai {
+    font-size: 1.2em;
+    margin-right: 0.2em;
+  }
 }
