@@ -84,8 +84,7 @@
   }
 
   img {
-    width: 175px;
-    height: 175px;
+    max-width: 175px;
     border-radius: 50%;
     object-fit: cover;
 
@@ -125,8 +124,6 @@
   line-height: 1.1;
   font-weight: 700;
 }
-
-
 
 .author__bio {
   margin: 0;
@@ -225,6 +222,7 @@
 
   li {
     white-space: nowrap;
+    font-size: $type-size-5;
   }
 
   a {
@@ -241,14 +239,14 @@
       text-decoration: underline;
     }
   }
-   
+
   &.social-icons a {
-    font-size: 0.9rem;
+    font-size: 1.1rem;
   }
 
   &.social-icons i,
   &.social-icons .ai {
-    font-size: 1.1em;
-    margin-right: 0.2em;
+    font-size: 1.2em;
+    margin-right: 0.1em;
   }
 }
