@@ -23,6 +23,15 @@
   opacity: 0;
 }
 
+/*
+   Numeric figure variants
+   ========================================================================== */
+
+.numeric-oldstyle {
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  font-feature-settings: "onum" 1, "pnum" 1, "lnum" 0, "tnum" 0;
+}
+
 /* https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html */
 
 .visually-hidden,
