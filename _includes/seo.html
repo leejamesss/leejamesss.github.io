@@ -6,7 +6,7 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if page.title %}
+{% if page.title and page.url != "/" %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
@@ -23,7 +23,10 @@
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
+  <meta name="description" content="{{ seo_description }}">
 {% endif %}
+
+<meta name="robots" content="{{ page.robots | default: 'index, follow, max-image-preview:large' }}">
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
@@ -48,9 +51,11 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
+
+<meta property="og:type" content="{% if page.date %}article{% else %}profile{% endif %}">
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
@@ -90,7 +95,6 @@
 {% endif %}
 
 {% if page.date %}
-  <meta property="og:type" content="article">
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 {% endif %}
 
@@ -115,11 +119,14 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
+      "@context" : "https://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "sameAs" : {{ site.social.links | jsonify }}{% if page.url == "/" %},
+      "image" : {{ site.author.avatar | prepend: "/images/" | prepend: seo_url | jsonify }},
+      "description" : {{ seo_description | jsonify }},
+      "knowsAbout" : ["Large language models", "Retrieval-augmented generation", "AI-generated text detection", "Automated peer review", "Socially adaptive AI"]{% endif %}
     }
   </script>
 {% endif %}

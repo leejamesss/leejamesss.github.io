@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Jiatao Li"
 title_separator          : "-"
 name                     : &name "Jiatao Li"
-description              : &description "I am a Peking University student with a passion for Knowledge Graph,Computer Graph,Searching Engine,NLP,Machine Learning,Text Mining and Big Data."
+description              : &description "Jiatao Li is a machine learning researcher working on large language models, retrieval-augmented generation, AI-generated text detection, automated peer review, and socially adaptive AI."
 url                      : https://leejamesss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leejamesss/leejamesss.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "JiataoLi2004"
 facebook:
   username               :
   app_id                 :
@@ -66,9 +66,14 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Jiatao Li"
+  links:
+    - "https://github.com/leejamesss"
+    - "https://scholar.google.com/citations?user=rhqBwx8AAAAJ&hl=en"
+    - "https://www.linkedin.com/in/jiatao-li-44527128a/"
+    - "https://twitter.com/JiataoLi2004"
+    - "https://blog.csdn.net/m0_72410588"
 
 
 # Analytics
@@ -193,7 +198,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # Template posts are retained in the repository but excluded from search.
   - scope:
       path: ""
       type: posts
@@ -204,14 +209,17 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+      robots: "noindex, follow"
+      sitemap: false
+  # Template and utility pages default to noindex. The homepage overrides this.
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
+      robots: "noindex, follow"
+      sitemap: false
   - scope:
       path: ""
       type: teaching
@@ -220,7 +228,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+      robots: "noindex, follow"
+      sitemap: false
   - scope:
       path: ""
       type: publications
@@ -229,7 +238,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+      robots: "noindex, follow"
+      sitemap: false
   - scope:
       path: ""
       type: portfolio
@@ -238,7 +248,8 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+      robots: "noindex, follow"
+      sitemap: false
   - scope:
       path: ""
       type: talks
@@ -246,6 +257,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      robots: "noindex, follow"
+      sitemap: false
 
 # Sass/SCSS
 sass:
@@ -263,14 +276,12 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji

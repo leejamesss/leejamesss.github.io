@@ -1,8 +1,11 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Jiatao Li"
+description: "Jiatao Li is a machine learning researcher working on large language models, retrieval-augmented generation, AI-generated text detection, automated peer review, and socially adaptive AI."
+excerpt: "Machine learning researcher working on large language models, retrieval-augmented generation, AI-generated text detection, automated peer review, and socially adaptive AI."
 author_profile: true
+robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+sitemap: true
 redirect_from: 
   - /about/
   - /about.html
