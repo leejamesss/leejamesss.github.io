@@ -52,8 +52,8 @@ My research explores how AI systems adapt to (1) tasks, (2) users, and (3) socia
 
 
 ## Awards
-- 2026: Beijing Outstanding Graduate (北京市优秀毕业生)
-- 2026: Peking University Outstanding Graduate (北京大学优秀毕业生)
+- 2026: Beijing Outstanding Graduate
+- 2026: Peking University Outstanding Graduate
 - 2025: Peking University Person of the Year Nomination (45/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/tLsp9T4GFcGwOLd86Q2Wbg))
 - 2025: National Scholarship (1%, Rank1)
 - 2025: Peking University Merit Student (Rank1)
