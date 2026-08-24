@@ -20,6 +20,10 @@ My research explores how AI systems adapt to (1) tasks, (2) users, and (3) socia
 
 
 ## Publications
+- AGENT-X: Adaptive Guideline-based Expert Network for Threshold-free AI-generated teXt Detection <br>
+**Jiatao Li**, Mao Ye, Cheng Peng, Xunjian Yin, Xiaojun Wan  
+*Findings of EMNLP 2026. (Accepted)* [[arXiv](https://arxiv.org/abs/2505.15261)]
+
 - Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
 **Jiatao Li**, Xiaojun Wan  
 *ACL 2025. (Long Paper)* [[pdf](https://aclanthology.org/2025.acl-long.1292.pdf)]
@@ -43,11 +47,6 @@ My research explores how AI systems adapt to (1) tasks, (2) users, and (3) socia
 - Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview <br>
 **Jiatao Li**, Yanheng Li, Xiaojun Wan  
 *arXiv*:2505.01967 [[pdf](https://arxiv.org/pdf/2505.01967)]
-
-- AGENT-X: Adaptive Guideline-based Expert Network for Threshold-free AI-generated teXt detection <br>
-**Jiatao Li**, Mao Ye, Cheng Peng, Xunjian Yin, Xiaojun Wan  
-*arXiv*:2505.15261 [[pdf](https://arxiv.org/pdf/2505.15261)]
-
 
 
 
