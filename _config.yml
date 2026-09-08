@@ -87,12 +87,12 @@ analytics:
 author:
   name             : "Jiatao Li"
   avatar           : "profile_photo.jpg"
-  bio              : "Undergrad @ PKU NLP Lab"
-  location         : "Wangxuan Institute"
+  bio              : "CMU MSML"
+  location         : "Pittsburgh, PA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rhqBwx8AAAAJ&hl=en"
-  email            : "leejames@stu.pku.edu.cn"
+  email            : "jiataol@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://leejamesss.github.io/"
   cv               : "/assets/Curriculum_Vitae.pdf"

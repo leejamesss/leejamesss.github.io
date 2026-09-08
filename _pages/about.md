@@ -11,7 +11,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate at Peking University working with Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). I was an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)) at Stanford University, advised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/). 
+I am pursuing an MS in Machine Learning, Advanced Study at Carnegie Mellon University (Sep 2026–May 2028, expected). I am working with Prof. Louis-Philippe Morency (Jun 2026–Present).
+
+My current research focuses on **Multimodal Human Behavior Generation: Investigating co-speech motion generation in conversational settings.**
+
+Previously, I worked with Prof. [Xiaojun Wan](https://wanxiaojun.github.io/) at Peking University (Feb 2024–Jun 2026). I was also an undergraduate researcher in Stanford University's SALT Lab through the [UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program) program, advised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/) (Mar 2025–Oct 2025).
 
 My research explores how AI systems adapt to (1) tasks, (2) users, and (3) social contexts.
 - Task Adaptivity: Improving how LLMs retrieve, select, and structure contextual knowledge for diverse tasks.
@@ -20,9 +24,9 @@ My research explores how AI systems adapt to (1) tasks, (2) users, and (3) socia
 
 
 ## Publications
-- AGENT-X: Adaptive Guideline-based Expert Network for Threshold-free AI-generated teXt Detection <br>
-**Jiatao Li**, Mao Ye, Cheng Peng, Xunjian Yin, Xiaojun Wan  
-*EMNLP 2026 (Findings). (Long Paper)* [[pdf](https://arxiv.org/pdf/2505.15261)]
+- When AI-Text Detectors Become Evidence: Rethinking Detection for Human Decisions. <br>
+**Jiatao Li**, Mao Ye, Xinyu Hu, Cheng Peng, Xunjian Yin, Xiaojun Wan <br>
+*Findings of EMNLP 2026, accepted.* [[Earlier preprint](https://arxiv.org/pdf/2505.15261)]
 
 - Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
 **Jiatao Li**, Xiaojun Wan  
