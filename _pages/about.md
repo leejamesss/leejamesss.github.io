@@ -11,12 +11,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate at Peking University working with Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). I was an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)) at Stanford University, advised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/). 
+I am a master’s student at Carnegie Mellon University, working with Prof. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency). I received my bachelor’s degree from Peking University, where I worked with Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). I was an undergraduate visiting researcher ([UGVR](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program)) at Stanford University, advised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/).
 
-My research explores how AI systems adapt to (1) tasks, (2) users, and (3) social contexts.
-- Task Adaptivity: Improving how LLMs retrieve, select, and structure contextual knowledge for diverse tasks.
-- User Adaptivity: Developing interaction mechanisms that allow agents to adapt to evolving user goals and preferences.
-- Social Adaptivity: Studying how social factors influence model decisions to build socially aware and fair AI systems.
+I study how AI systems adapt to tasks, users, and social contexts.
 
 
 ## Publications
