@@ -19,7 +19,7 @@ I study how AI systems adapt to tasks, users, and social contexts.
 ## Publications
 - When AI-Text Detectors Become Evidence: Rethinking Detection for Human Decisions. <br>
 **Jiatao Li**, Mao Ye, Xinyu Hu, Cheng Peng, Xunjian Yin, Xiaojun Wan <br>
-*EMNLP 2026 (Findings). (Long Paper)* [[pdf](https://arxiv.org/pdf/2505.15261)]
+*EMNLP 2026 (Findings). (Long Paper)* [[pdf](https://aclanthology.org/2026.findings-emnlp.1539.pdf)]
 
 - Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
 **Jiatao Li**, Xiaojun Wan  
