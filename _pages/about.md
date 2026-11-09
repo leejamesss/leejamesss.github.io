@@ -23,11 +23,11 @@ I study how AI systems adapt to tasks, users, and social contexts.
 
 - Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection <br>
 **Jiatao Li**, Xiaojun Wan  
-*ACL 2025. (Long Paper)* [[pdf](https://aclanthology.org/2025.acl-long.1292.pdf)]
+*ACL 2025. (Long Paper)* [[pdf](https://aclanthology.org/2025.acl-long.1292.pdf)] [[code](https://github.com/PKU-ONELab/AuthorAwareDetection)]
 
 - Where Do LLMs Go Wrong? Diagnosing Automated Peer Review via Aspect-Guided Multi-Level Perturbation <br>
 **Jiatao Li**, Yanheng Li, Xinyu Hu, Mingqi Gao, Xiaojun Wan  
-*CIKM 2025. (Long Paper)* [[pdf](https://dl.acm.org/doi/pdf/10.1145/3746252.3761274)]
+*CIKM 2025. (Long Paper)* [[pdf](https://dl.acm.org/doi/pdf/10.1145/3746252.3761274)] [[code](https://github.com/PKU-ONELab/where-do-llms-go-wrong)]
 
 - Evaluating Self-Generated Documents for Enhancing Retrieval-Augmented Generation with Large Language Models <br>
 **Jiatao Li**, Xinyu Hu, Xunjian Yin, Xiaojun Wan  
